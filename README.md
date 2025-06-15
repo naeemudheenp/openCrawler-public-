@@ -5,5 +5,8 @@
 
 ---
 
+Backend: https://github.com/naeemudheenp/opencrawler-backend
+Frontend: https://github.com/naeemudheenp/opencrawler-frontend
+
 ## **Report Features and Bugs**
 We value your feedback! If you encounter any bugs or have suggestions for new features, you can report them.
